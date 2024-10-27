@@ -5,7 +5,7 @@ Here's a quick script to compute it, under the following main (ultra-)simplifica
 - Everybody weighs the same and we all jump at the same height and in the same way
 - The population of each country is equally distributed within it (which is extremely inaccurate but I don't care)
 
-Yes, it's equivalent to compute the center of mass of the world population, but this way it sounds more cool.
+Yes, it's equivalent to compute the center of mass of the world population, but in this way it sounds more cool.
 
 
 
