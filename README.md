@@ -1,4 +1,5 @@
-What if we all, human beings, jumped at the same time? Well, easy to calculate, there wouldn't be many effects. But at least, on which axis would the earth imperceptibly move?
+## What if we all, human beings, jumped at the same time?
+Well, easy to calculate, there wouldn't be many effects. But at least, on which axis would the earth imperceptibly move?
 
 Here's a quick script to compute it, under the following main (ultra-)simplifications:
 - Everybody weighs the same and we all jump at the same height and in the same way
